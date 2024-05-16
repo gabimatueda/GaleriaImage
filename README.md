@@ -2,7 +2,7 @@
 
 ## 💻 Projeto
 
-Criei uma galeria de imagens para o Desfio #2 do Front-End Fusion (Projeto Voluntário). Clique <a href="https://galeria-image.vercel.app/">aqui</a> para conferir!
+Criei uma galeria de imagens para o Desafio #2 do Front-End Fusion (Projeto Voluntário). Clique <a href="https://galeria-image.vercel.app/">aqui</a> para conferir!
 
 ---
 
